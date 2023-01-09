@@ -12,6 +12,8 @@
 // @match        https://youtube.com/*
 // @match        http://www.youtube.com/*
 // @match        https://www.youtube.com/*
+// @match        http://m.youtube.com/*
+// @match        https://m.youtube.com/*
 // @match        https://music.youtube.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
